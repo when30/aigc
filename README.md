@@ -1,0 +1,2 @@
+# aigc
+AiGC notes
